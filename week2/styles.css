@@ -1,0 +1,30 @@
+h1 {
+    color: green;
+    font-size :50px;
+    font-weight: bold;   
+}
+
+.person{
+    size : "2"; 
+    color :red; 
+    font-size:20px;
+    font-weight: bold;
+}
+.list {
+    border: 1px solid rgb(230, 13, 13);
+    padding:1px;
+    border-radius:15px; 
+    font-size:large;
+    margin:20px 0px;
+   
+
+}
+.retake a{
+    color:red;
+    text-decoration: none;
+
+}
+
+.list a {
+    text-decoration: none;
+}
