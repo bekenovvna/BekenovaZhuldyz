@@ -1,0 +1,16 @@
+#matrix{
+	display: flex;
+	flex-wrap: wrap;
+	width: 500px;
+	position: relative;
+
+}
+
+#determinant{
+	color:green;
+	
+}
+
+#result{
+	color:red;
+}
