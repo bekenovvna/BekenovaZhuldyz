@@ -46,13 +46,13 @@
 			}
 			else if($year){
 				foreach($cars as $i){
-					if((2017-$i['year'])>=10){
+					if((2018-$i['year'])>=7){
 						echo	'<div class="card">
 								<img src="'.$i['image'].'" style="width:100px;height:100px;"/>
 								<div class="description">
 								<div class="title">'.$i['maker'].' '.$i['model'].'</div>
 								<div class="price">'.$i['price'].'$</div>
-								<div class="year">'.(2017-$i['year']).'years</div>
+								<div class="year">'.(2018-$i['year']).'years</div>
 								</div>
 								</div>';
 					}
